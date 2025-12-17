@@ -8,12 +8,11 @@ class Vehicle:
         return f"{self.brand} vehicle with {self.wheels} wheels"
 
 
-# Child class: Car (inherits Vehicle)
+# Child class: Car
 class Car(Vehicle):
     def __init__(self, brand):
         super().__init__(brand, 4)
 
-    # method overriding (polymorphism)
     def description(self):
         return f"Car: {self.brand}, 4 wheels"
 
