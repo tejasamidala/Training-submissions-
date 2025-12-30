@@ -1,0 +1,6 @@
+2025-12-30 01:01:53 | INFO | Program started
+2025-12-30 01:01:53 | INFO | User opened menu
+2025-12-30 01:01:53 | WARNING | Low disk space warning (sample)
+2025-12-30 01:01:53 | ERROR | Failed to load settings file (sample)
+2025-12-30 01:01:53 | INFO | User clicked analyze logs
+2025-12-30 01:01:53 | INFO | Program finished
