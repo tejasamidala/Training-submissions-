@@ -1,0 +1,9 @@
+emp_id,name,department,salary,join_date,email
+E001,Sai,Data,85000.0,2023-01-15,sai@gmail.com
+E002,Raju,IT,72000.0,2022-05-01,raju@gmail.com
+E003,Anjali,Data,0,2023-03-20,anjali@gmail.com
+E004,Mahesh,HR,65000.0,2023-13-10,mahesh@gmail.com
+E005,Neha,Finance,78000.0,2022-11-30,neha@gmail
+E006,Arjun,Data,91000.0,2023-01-15,arjun@gmail.com
+E006,Arjun,Data,91000.0,2023-01-15,arjun@gmail.com
+E008,Priya,Finance,0,2022-02-28,priya@gmail.com

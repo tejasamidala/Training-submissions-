@@ -1,0 +1,16 @@
+order_id,customer_id,customer_name,region,product,category,quantity,unit_price,order_date
+1001,C101,Sai,South,Laptop,Electronics,1,850,2024-01-05
+1002,C102,Raju,South,Mouse,Electronics,3,25,2024-01-06
+1003,C103,Anjali,East,Monitor,Electronics,2,220,2024-01-07
+1004,C101,Sai,South,Keyboard,Electronics,1,60,2024-01-10
+1005,C104,Mahesh,West,Laptop,Electronics,1,850,2024-01-12
+1006,C105,Neha,North,Headphones,Electronics,2,120,2024-01-15
+1007,C102,Raju,South,Keyboard,Electronics,2,60,2024-01-18
+1008,C103,Anjali,East,Mouse,Electronics,4,25,2024-01-20
+1009,C106,Arjun,West,Monitor,Electronics,1,220,2024-01-22
+1010,C101,Sai,South,Headphones,Electronics,1,120,2024-01-25
+1011,C107,Priya,North,Laptop,Electronics,1,900,2024-02-02
+1012,C104,Mahesh,West,Mouse,Electronics,2,25,2024-02-05
+1013,C105,Neha,North,Keyboard,Electronics,1,60,2024-02-07
+1014,C106,Arjun,West,Laptop,Electronics,1,900,2024-02-10
+1015,C103,Anjali,East,Headphones,Electronics,1,120,2024-02-14

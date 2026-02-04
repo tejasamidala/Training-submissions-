@@ -1,0 +1,19 @@
+DATA QUALITY REPORT
+========================================
+
+MISSING_VALUES (2):
+- Line 9: missing name
+- Line 10: missing salary
+
+INVALID_SALARY (2):
+- Line 4: salary='not_available'
+- Line 10: salary=''
+
+INVALID_JOIN_DATE (1):
+- Line 5: join_date='2023-13-10'
+
+INVALID_EMAIL (1):
+- Line 6: email='neha@gmail'
+
+DUPLICATE_EMP_IDS (1):
+- E006
