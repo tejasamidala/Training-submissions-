@@ -1,0 +1,6 @@
+
+Sales Summary Report
+--------------------
+Total Revenue: $3050.0
+Total Items Sold: 13
+Top Selling Product: Laptop
